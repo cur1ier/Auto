@@ -17,6 +17,11 @@ def onselect(evt):
         text_res.insert(tk.END, "\n\nCORRECT")
     else:
         text_res.insert(tk.END, "\n\nWRONG!")
+    print("test")
+    print("test")
+    print("test")
+
+
 
 def BtnClick():
     try:
